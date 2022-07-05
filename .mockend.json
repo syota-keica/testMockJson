@@ -1,0 +1,138 @@
+{
+  "destination": [
+    {
+      "id": "1",
+      "latitude": 35.65858,
+      "longitude": 139.74545,
+      "name": "昭和工業",
+      "address": "東京都千代田区千代田１丁目１０−１０",
+      "tel": "03-6361-6111",
+      "destinationNumber": "0021",
+      "description": "昭和工業は群馬県にあります",
+      "created_at": "2022/04/22",
+      "updated_at": "2022/04/23",
+      "islike": false
+    },
+    {
+      "id": "2",
+      "latitude": 35.6799519,
+      "longitude": 139.6980805,
+      "name": "昭和工業",
+      "address": "東京都千代田区千代田2丁目１０−１０",
+      "tel": "03-6361-6111",
+      "destinationNumber": "0021",
+      "description": "昭和工業は群馬県にあります",
+      "created_at": "2022/04/22",
+      "updated_at": "2022/04/23",
+      "islike": false
+    },
+    {
+      "id": "3",
+      "latitude": 35.6809519,
+      "longitude": 139.6990805,
+      "name": "昭和工業",
+      "address": "東京都千代田区千代田3丁目１０−１０",
+      "tel": "03-6361-6111",
+      "destinationNumber": "0021",
+      "description": "昭和工業は群馬県にあります",
+      "created_at": "2022/04/22",
+      "updated_at": "2022/04/23",
+      "islike": false
+    },
+    {
+      "id": "4",
+      "latitude": 35.6819519,
+      "longitude": 139.6700805,
+      "name": "昭和工業",
+      "address": "東京都千代田区千代田4丁目１０−１０",
+      "tel": "03-6361-6111",
+      "destinationNumber": "0021",
+      "description": "昭和工業は群馬県にあります",
+      "created_at": "2022/04/22",
+      "updated_at": "2022/04/23",
+      "islike": false
+    },
+    {
+      "id": "5",
+      "latitude": 35.6889519,
+      "longitude": 139.7070805,
+      "name": "昭和工業",
+      "address": "東京都千代田区千代田5丁目１０−１０",
+      "tel": "03-6361-6111",
+      "destinationNumber": "0021",
+      "description": "昭和工業は群馬県にあります",
+      "created_at": "2022/04/22",
+      "updated_at": "2022/04/23",
+      "islike": false
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "companyId": 100,
+      "userId": 300,
+      "companyName": "昭和工業",
+      "userName": "近藤彰太",
+      "email": "kondo@keica.co.jp",
+      "password": "testuser"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "テキストタイトル",
+      "detail": "テキスト詳細",
+      "permission": "システム",
+      "createdAt": "2020/04/06",
+      "updataTime": "2022/04/06"
+    },
+    {
+      "id": 2,
+      "title": "テキストタイトル324532",
+      "detail": "テキスト詳細",
+      "permission": "管理者",
+      "createdAt": "2020/04/06",
+      "updataTime": "2022/04/06"
+    },
+    {
+      "id": 3,
+      "title": "テキストタイトルiijfaij",
+      "detail": "テキスト詳細",
+      "permission": "管理者",
+      "createdAt": "2020/04/06",
+      "updataTime": "2022/04/06"
+    },
+    {
+      "id": 4,
+      "title": "テキストタイトルfdafater",
+      "detail": "テキスト詳細",
+      "permission": "営業所",
+      "createdAt": "2020/04/06",
+      "updataTime": "2022/04/06"
+    },
+    {
+      "id": 5,
+      "title": "テキストタイトルfadtea",
+      "detail": "テキスト詳細",
+      "permission": "営業所",
+      "createdAt": "2020/04/06",
+      "updataTime": "2022/04/06"
+    },
+    {
+      "id": 6,
+      "title": "テキストタイトルfasfeat",
+      "detail": "テキスト詳細",
+      "permission": "システム",
+      "createdAt": "2020/04/06",
+      "updataTime": "2022/04/06"
+    },
+    {
+      "id": 7,
+      "title": "テキストタイトルmojaifai",
+      "detail": "テキスト詳細",
+      "permission": "システム",
+      "createdAt": "2020/04/06",
+      "updataTime": "2022/04/06"
+    }
+  ]
+}
